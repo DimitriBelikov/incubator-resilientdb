@@ -1,5 +1,6 @@
 var NAVTREEINDEX20 =
 {
+"df/dbe/classgraphql__client_1_1GraphQLClient.html#aab98ea24adeb718e8497ee832c32289c":[1,0,2,0,11],
 "df/dbe/classgraphql__client_1_1GraphQLClient.html#ab6378904aaa49c9fe4016c3bb0ceab30":[0,0,12,0,9],
 "df/dbe/classgraphql__client_1_1GraphQLClient.html#ab6378904aaa49c9fe4016c3bb0ceab30":[1,0,2,0,9],
 "df/dbe/classgraphql__client_1_1GraphQLClient.html#adf3334a8b7205c076fd58c8f84973243":[0,0,12,0,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX20 =
 "dir_cd3166a27691264672ab7b2248e0f127.html":[2,0,4,2],
 "dir_d292b9ab0831f7182493bcec9c8bbad1.html":[2,0,3,0],
 "dir_d55e8cd56a2b94d483e5bd8f68dcb407.html":[2,0,4,4,1],
-"dir_d5b1c9c16e664c3bfa6b1f031ae05afa.html":[2,0,4,3,2],
-"dir_d7cd2a92df2926f13a63ecd5966aa135.html":[2,0,9,2,0]
+"dir_d5b1c9c16e664c3bfa6b1f031ae05afa.html":[2,0,4,3,2]
 };
